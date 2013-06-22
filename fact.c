@@ -6,6 +6,7 @@ int main()
   int  i;
   int  result = 1;
 
+  printf("Enter number:\n");
   scanf("%d", &i);
 
   while(i > 0)
